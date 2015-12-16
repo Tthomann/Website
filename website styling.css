@@ -12,3 +12,6 @@ H1 { text-align: center }
 p {
     font-family: "Arial Verdana", Sans-serif;
 }
+body { 
+    background: url(http://www.siteworx.ie/images/pageBG.png) repeat 0 0;
+}
